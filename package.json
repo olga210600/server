@@ -1,0 +1,18 @@
+{
+  "name": "ahh",
+  "version": "1.0.0",
+  "main": "app.js",
+  "dependencies": {
+    "node": "^17.2.0",
+    "nodemon": "^2.0.15",
+    "pg": "^8.7.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
